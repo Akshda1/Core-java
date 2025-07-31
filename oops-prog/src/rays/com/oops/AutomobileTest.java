@@ -14,6 +14,8 @@ public class AutomobileTest {
 	System.out.println(car1.getModel());
 	System.out.println(car1.getColour());
 	System.out.println(car1.getSpeedlimit());
+	
+	
 	System.out.println("--------------------");
 	
 	car2.setCompany("tata");
